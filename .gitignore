@@ -1,0 +1,8 @@
+.vs/
+*.user
+*.dll
+*.pdb
+local-knowledge.web/bin/
+local-knowledge.web/obj/
+local-knowledge.web/Properties/PublishProfiles/
+packages/
